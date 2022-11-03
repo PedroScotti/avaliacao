@@ -1,0 +1,35 @@
+.cabeca {
+    text-align: center;
+}
+
+.sobre {
+    text-align: center;
+    font-size: 30px;
+}
+
+.vantagens {
+    font-style: italic;
+}
+
+.beneficios {
+    font-size: 20px;
+    padding: 20px;
+}
+
+.logo {
+    text-align: center;
+}
+
+.final {
+    text-align: center;
+    padding: 30px;
+}
+
+#contato {
+    font-size: 30px;
+    font-style: oblique;
+}
+
+h3 {
+    font-size: 60px;
+}
